@@ -1,0 +1,3 @@
+git hub url
+
+git remote add origin https://github.com/Joshuatay76/git-test.git
